@@ -1,6 +1,11 @@
+run this command to download composer.phar to your website project below 
+curl -s https://getcomposer.org/installer | php
+
+open cmd and run the following
+php composer.phar init 
+to create the composer.json that heroku need to upload site.
+
+ignore
 copy the composer.phar at C:\Windows\System32
 
 paste it in your website project project
-
-open cmd and run the following
-php composer.phar init
