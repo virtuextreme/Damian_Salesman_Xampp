@@ -1,0 +1,6 @@
+copy the composer.phar at C:\Windows\System32
+
+paste it in your website project project
+
+open cmd and run the following
+php composer.phar init
